@@ -4,4 +4,4 @@ Node onna kite
 
 
 
-[Quick Links](/media/quicklinks.md)
+[Quick Links](/quicklinks.md)
