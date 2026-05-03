@@ -7,7 +7,7 @@ Kite Node is built with a handmade kite made from natural and repurposed materia
 
 Currently the focus is on the engineering/design/prototyping part of things. Kite Node is a blank canvas for expressing many different artistic and design languages!
 
-It's a place-based tool that teaches communities decentralized communication skills they can apply locally. 
+### It's a place-based tool that teaches communities decentralized communication skills they can apply locally. 
 ![Kite Node](media/KiteNode_Horizon.PNG) 
 
 
