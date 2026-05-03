@@ -20,7 +20,7 @@ It's a place-based tool that teaches communities decentralized communication ski
 
 
 # Advantages of DIY Kite Design
- **Kite Node uses a hadmade kite, constructed with natural, and repurposed materials, like sticks, trashbags and hemp twine**.
+ **Kite Node uses a handmade kite, constructed with natural, and repurposed materials, like sticks, trashbags and hemp twine**.
  - **lifts devices with no electricity**
  - once airborne in windy areas, kites can fly for hours, **or even days** , continuously
 - **simple, replicable design**
