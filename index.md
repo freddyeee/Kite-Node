@@ -17,7 +17,7 @@ It's a place-based tool that teaches communities decentralized communication ski
 
 
 # Advantages of DIY Kite Design
- **KiteNode uses a hadmade kite, constructed with natural, and repurposed materials, like sticks, trashbags and hemp twine**
+ **Kite Node uses a hadmade kite, constructed with natural, and repurposed materials, like sticks, trashbags and hemp twine**
  - **lifts devices with no electricity**
  - once airborne in windy areas, kites can fly for hours, **or even days** , continuously
 - **simple, replicable design**
@@ -34,7 +34,7 @@ Kite Node uses a **Japanese rokkaku design** with a traditional hexagonal shape
 - rokkaku kites are commonly used in **kite aerial photography** because of their **ability to gently lift equipment** into the sky, and hold a stable position
 
 ### So the idea is that, if there's wind, you can look around yourself and find three sticks, a sail, and some string to lift a LoRa device high into the air to greatly increase it's range. 
-### You can then leave the kite airborne while you send messages before reeling it in and recovering the Kite Node
+### You can then leave the Kite Node airborne while you send/receive messages before reeling it in 
 
 # Place-Based
 - Kite Node is especially suitable for coastal areas that get reliable wind
