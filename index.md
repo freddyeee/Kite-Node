@@ -3,7 +3,7 @@
 
 Kite Node uses the magic of physics and engineering to quickly send LoRa devices (or anything else) soaring into the sky with the help of a steady breeze (and keep them there)!
 
-Kite Node uses a handmade kite made from natural and repurposed materials, and is part of an ongoing art/research project. Currently I'm focusing on the engineering/design/prototyping part of things. Kite Node is a blank canvas for expressing many different artistic and design languages!
+Kite Node uses a handmade kite made from natural and repurposed materials, and is part of an ongoing art/research project. Currently the focus is on the engineering/design/prototyping part of things. Kite Node is a blank canvas for expressing many different artistic and design languages!
 
 It's a place-based tool that teaches communities decentralized communication skills they can use right where they're at. 
 ![Kite Node](media/KiteNode_Horizon.PNG) 
@@ -25,7 +25,7 @@ It's a place-based tool that teaches communities decentralized communication ski
 
 
 ### Rokkaku Kite Design
-Kite Node uses a **Japanese rokkaku design** with a traditional hexagonal shape
+This iteration of Kite Node is based on a **Japanese rokkaku design** with a traditional hexagonal shape
 - **extremely stable in variety of conditions with no tail**
 - can be tethered and left to **fly on it's own for extended periods of time**
 - **3 piece frame,** and different materials can be swapped out
@@ -34,7 +34,7 @@ Kite Node uses a **Japanese rokkaku design** with a traditional hexagonal shape
 - rokkaku kites are commonly used in **kite aerial photography** because of their **ability to gently lift equipment** into the sky, and hold a stable position
 
 ### So the idea is that, if there's wind, you can look around yourself and find three sticks, a sail, and some string to lift a LoRa device high into the air to greatly increase it's range. 
-### You can then leave the Kite Node airborne while you send/receive messages before reeling it in 
+### You can then leave the Kite Node airborne while you send/receive messages, before reeling it in 
 
 # Place-Based
 - Kite Node is especially suitable for coastal areas that get reliable wind
@@ -44,7 +44,7 @@ Kite Node uses a **Japanese rokkaku design** with a traditional hexagonal shape
 
 
 ### **For example:**
-If a family is traveling from the by sailboat, they're likely to find suitable winds along the way and so could deploy a Kite Node almost at any time during their journey, finding themselves in places with reliable wind during almost the entire trip.
+If a family is traveling by sailboat, they're likely to find suitable winds along the way and so could deploy a Kite Node almost at any time during their journey, finding themselves in places with reliable wind during almost the entire trip.
 
 The same could be said of a family that is moving up a coast, or across plains, depending on the weather. The wind is there more often than we might expect.
 
