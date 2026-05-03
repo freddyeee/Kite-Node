@@ -3,9 +3,11 @@
 
 Kite Node uses the magic of physics and engineering to quickly send LoRa devices (or anything else) soaring into the sky with the help of a steady breeze (and keep them there)!
 
-Kite Node uses a handmade kite made from natural and repurposed materials, and is part of an ongoing art/research project. Currently the focus is on the engineering/design/prototyping part of things. Kite Node is a blank canvas for expressing many different artistic and design languages!
+Kite Node is built with a handmade kite made from natural and repurposed materials, and is part of an ongoing art/research project. 
 
-It's a place-based tool that teaches communities decentralized communication skills they can use right where they're at. 
+Currently the focus is on the engineering/design/prototyping part of things. Kite Node is a blank canvas for expressing many different artistic and design languages!
+
+It's a place-based tool that teaches communities decentralized communication skills they can apply locally. 
 ![Kite Node](media/KiteNode_Horizon.PNG) 
 
 
@@ -25,7 +27,7 @@ It's a place-based tool that teaches communities decentralized communication ski
 - **made of readily accessible, natural and recycled materials**
 
 
-### Rokkaku Kite Design
+### Rokkaku Kite 
 This iteration of Kite Node is based on a **Japanese rokkaku design** with a traditional hexagonal shape.
 - **extremely stable in variety of conditions with no tail**
 - can be tethered and left to **fly on it's own for extended periods of time**
@@ -38,14 +40,15 @@ This iteration of Kite Node is based on a **Japanese rokkaku design** with a tra
 ### You can then leave the Kite Node airborne while you send/receive messages, before reeling it in. 
 
 # Place-Based
-- Kite Node is especially suitable for coastal areas that get reliable wind
-- could also be used on boats
-- also works tethered to a rooftop, treetop or mast 
-- creates the most advantage in a flat terrain, but really anywhere with good wind
+- kites can only fly to send/receive messages during parts of the day that have wind, **so communication flows with the natural daily cycles of the wind.**
+- Kite Node is especially suitable for areas that get reliable wind **(coasts, plains/grasslands, deserts)**
+- could also be used on **boats**
+- also works **tethered to a rooftop, treetop or mast** 
+- creates the most advantage in a **flat terrain**, but really anywhere with good wind
 
 
 ### **For example:**
-If a family is traveling by sailboat, they're likely to find suitable winds along the way and so could deploy a Kite Node almost at any time during their journey, finding themselves in places with reliable wind during almost the entire trip.
+If a family is traveling by sailboat, they're likely to find suitable winds along the way, and so could deploy a Kite Node at different points during their journey, finding themselves in places with reliable wind during almost the entire trip.
 
 The same could be said of a family that is moving up a coast, or across plains, depending on the weather. The wind is there more often than we might expect.
 
@@ -57,14 +60,17 @@ The same could be said of a family that is moving up a coast, or across plains, 
 
 # Next Steps
 
-This is an ongoing project, still in early phases. I'll post updates about Kite Node's development here as the project continues.
+This is an ongoing project, still in early phases. Updates about Kite Node's development will be posted here as the project continues.
 
-My plans for this page include: 
+Plans for this page include: 
 - sharing more about the **inspiration behind Kite Node**
+- adding **links**
 - adding **schematics** 
 - adding full list of **build materials** 
 - attending a **kite festival** to continue tests!
 - **modifying kite design** and materials, for both the frame and the sail
 - making a **new DIY spool** (the old one was made of balsa wood, and broke)
+
+
 
 
