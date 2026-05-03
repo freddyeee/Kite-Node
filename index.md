@@ -8,11 +8,12 @@ Kite Node uses a handmade kite made from natural and repurposed materials, and i
 It's a place-based tool that teaches communities decentralized communication skills they can use right where they're at. 
 ![Kite Node](media/KiteNode_Horizon.PNG) 
 
-<span>
-  <img width="300" src="media/KiteNode_View.gif"> 
-  <img width="247" src="media/KiteNode_Closeup.PNG">
-</span>
 
+
+<div style="display: flex; gap: 5px;">
+  <img src="media/KiteNode_View.gif" style="width: 50%;">
+  <img src="media/KiteNode_Closeup.PNG" style="width: 50%;">
+</div>
 
 
 
@@ -48,11 +49,11 @@ If a family is traveling by sailboat, they're likely to find suitable winds alon
 
 The same could be said of a family that is moving up a coast, or across plains, depending on the weather. The wind is there more often than we might expect.
 
-<span>
-  <img width="300" src="media/KiteNode_Spool.jpg"> 
-  <img width="300" src="media/KiteNode_Stable.gif">
-</span>
 
+<div style="display: flex; gap: 5px;">
+  <img src="media/KiteNode_Spool.jpg" style="width: 50%;">
+  <img src="media/KiteNode_Stable.gif" style="width: 50%;">
+</div>
 
 # Next Steps
 
